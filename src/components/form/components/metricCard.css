@@ -1,0 +1,11 @@
+.metricCard {
+  box-sizing: border-box;
+  border-left: 10px solid rgb(10, 151, 85);
+  height: 100px;
+  width: 300px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 0px 20px 20px;
+}

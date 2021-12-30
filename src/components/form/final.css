@@ -1,0 +1,15 @@
+.final {
+  display: flex;
+  justify-content: center;
+  width: 90vw;
+  height: auto;
+  gap: 2vw;
+  flex-wrap: wrap;
+  margin-top: 6rem;
+}
+.ChartSection {
+  display: flex;
+  flex-direction: column;
+  height: 45vh;
+  overflow-y: scroll;
+}
